@@ -1,0 +1,13 @@
+{
+    "name": "jhx2158/demo",
+    "description": "composer study",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jhx2158",
+            "email": "1049369256@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
